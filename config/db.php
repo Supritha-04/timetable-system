@@ -2,7 +2,10 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "timatable_system"; // change if different
+$database = "timetable_system"; // change if different
+
+echo "Database being used: " . $database;
+exit;
 
 $conn = new mysqli($host, $user, $password, $database);
 

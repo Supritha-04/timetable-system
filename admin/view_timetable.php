@@ -126,11 +126,8 @@ $allTeachingPeriods = array_merge($beforeLunch, $afterLunch);
 <div class="container-fluid mt-3">
 
 <!-- ── Top bar ────────────────────────────────────────────────────────────── -->
-<div class="d-flex align-items-center justify-content-between flex-wrap gap-2 mb-3 no-print">
+<div class="d-flex align-items-center flex-wrap gap-2 mb-3 no-print">
     <h3 class="mb-0">View Timetable</h3>
-    <a href="dashboard.php" class="btn btn-dashboard">
-        <i class="bi bi-house-door me-1"></i>Back to Dashboard
-    </a>
 </div>
 
 <!-- ── Controls row ───────────────────────────────────────────────────────── -->
