@@ -4,8 +4,7 @@ $user = "root";
 $password = "";
 $database = "timetable_system"; // change if different
 
-echo "Database being used: " . $database;
-exit;
+
 
 $conn = new mysqli($host, $user, $password, $database);
 
