@@ -217,8 +217,8 @@ $allTeachingPeriods = array_merge($beforeLunch, $afterLunch);
 <!-- Legend -->
 <div class="d-flex gap-3 flex-wrap mb-4 no-print">
     <span class="badge bg-success px-3 py-2">Open Elective (fixed)</span>
-    <span class="badge px-3 py-2" style="background:#f0f0f0;color:#555;border:1px solid #ccc;">MTP / ECA-CCA / SPORTS (filler)</span>
-    <span class="badge px-3 py-2" style="background:#ffeeba;color:#555;border:1px solid #ccc;">☕ Lunch</span>
+   
+    <span class="badge px-3 py-2" style="background:#ffeeba;color:#555;border:1px solid #ccc;"> Lunch</span>
 </div>
 
 </div><!-- /container -->
