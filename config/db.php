@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$database = "timetable_system"; // change if different
+$database = "timetable_system\admin\database.sql"; // change if different
 
 
 
